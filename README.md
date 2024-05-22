@@ -1,6 +1,6 @@
 ## Hi 👋
 I'm currently a 4th year MD/PhD student in the lab of Dr. Deyou Zheng. If you have any questions, feel free to send me an email (kevin.oleary@einstienmed.edu).
-(https://ksoleary.github.io/ "Publications")
+[I'm an inline-style link](https://ksoleary.github.io/)
 <!--
 **ksoleary/ksoleary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
